@@ -1,1 +1,1 @@
-# qwick-app
+# qwik-app
